@@ -11,4 +11,4 @@
  
  C: Change ship color (Does not have any effect on Retro Mode)  
  
- You will have to click on the green flag to restart after a Game Over
+ 
